@@ -5,7 +5,7 @@ This repository demonstrates various methods for aligning elements using CSS. It
 ## Demo
 
 You can view a live demo of this project here:  
-**[https://diaahsharqawi.github.io/CSS-alignment/](https://diaahsharqawi.github.io/CSS-alignment/)**
+**[Live demo](https://itg-software-front-end-internship.github.io/CSS-alignment/)**
 
 ## Features
 
